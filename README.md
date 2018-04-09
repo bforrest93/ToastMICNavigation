@@ -7,6 +7,7 @@ A Python based navigation program for the MIC/STA Campus
 - https://docs.python.org/3/ ~ Python 3.6.5 Documentation
 - https://docs.python.org/3/library/ ~ Python Standard Library
 - https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial ~ Python for Starters
+- https://jakevdp.github.io/WhirlwindTourOfPython/02-basic-python-syntax.html ~ More Python for starters
 
 ### R Language
 - https://www.rstudio.com/online-learning/
